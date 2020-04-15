@@ -1,3 +1,3 @@
 # Intro_2_Colab (Python Programming)
 
-https://www.youtube.com/channel/UCYlOdJBJQN4c7k25uzwSwJA?view_as=subscriber
+https://www.youtube.com/watch?v=Zwqy5ub_-00&list=PLIzq8uevSgtdhgCzajHUUESPifdw5ol1N 
